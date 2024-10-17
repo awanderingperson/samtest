@@ -1,0 +1,9 @@
+{
+    "type":"module",
+    "name": "js-w4jkad",
+    "version": "0.0.0",
+    "private": true,
+    "dependencies": {
+      "sam-js": "^0.3.0"
+    }
+  }
